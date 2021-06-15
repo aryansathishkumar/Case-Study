@@ -1,0 +1,37 @@
+.img1
+{
+    border-radius: 15px;
+    border-color: black;
+    border-width: 5px;
+    border-style: double;
+    height: 200px;
+    width: 175px;
+}
+body
+{
+    background-color: cyan;
+}
+button
+{
+    border-radius: 36px;
+    border-color: grey;
+    border-width: 5px;
+    border-style: solid;   
+}
+.div1
+{
+    height: 300px;
+    width: 350px;
+    border-color: black;
+    border-style: solid;
+    border-width: 6px;
+}
+p
+{
+    font-size: 22px;
+}
+#b
+{
+    background-color: black;
+    font-style: italic;
+}
